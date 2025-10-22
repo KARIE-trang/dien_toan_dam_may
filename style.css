@@ -1,0 +1,65 @@
+.all {
+  background-color: rgb(167, 150, 214);
+  min-height: 100vh;
+  padding: 4px;
+}
+
+.khoi1 {
+  margin: 20px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+
+  border-radius: 50px;
+}
+.anh {
+  width: 300px;
+  height: 300px;
+  background-image: url(https://fagopet.vn/storage/8p/hw/8phwlfug4xt1aa568qdmadttvcz2_gia-meo-anh-long-dai-trang-1.webp);
+  background-size: cover;
+  background-position: center;
+  border-radius: 50px;
+  flex: 1;
+  margin: 10px;
+}
+
+.chu {
+  background-color: white;
+  flex: 2;
+  margin: 60px;
+  text-align: center;
+}
+.chu h1 {
+  text-align: center;
+}
+.chu p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+.mau {
+  background-color: thistle;
+  background-size: cover;
+  color: white;
+  border-radius: 50px;
+  padding: 4px 10px;
+  display: inline-block;
+  border-radius: 50px;
+}
+.khoi2 {
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.ex {
+  background-color: white;
+  text-align: center;
+  width: 49%;
+}
+.edu {
+  background-color: white;
+  width: 49%;
+  text-align: center;
+}
+.edu table {
+  margin: 20px;
+}
